@@ -2,7 +2,7 @@
 
 <h3 align="center"> Projetinho de uma landing page simples com um botão que te redireciona para outra página html. Feito seguindo um video da Rafa Ballerini. </h3>
 
-<h4 align="center"> Esse projeto foi feito com foco no aprendizado de flexbox e no aprofundamento de css. </h4>
+<h4 align="center"> Esse projeto foi feito com foco no aprendizado de flexbox e no aprofundamento de css. Foram criadas dois arquivos html, um para a página principal e outro com foco no botão, assim como dois arquivos css com esse mesmo intuito. </h4>
 
 <p align="center">
   <img height="200" src="https://i.imgur.com/ehJJiBz.png">
