@@ -5,9 +5,9 @@
 <h4 align="center"> Esse projeto foi feito com foco no aprendizado de flexbox e no aprofundamento de css. </h4>
 
 <p align="center">
-  <img height="200" src="https://i.imgur.com/ehJJiBz.png">
+  <img height="300" src="https://i.imgur.com/ehJJiBz.png">
 </p>
 
 <p align="center">
-  <img height="200" src="https://i.imgur.com/wfh8Veb.png">
+  <img height="300" src="https://i.imgur.com/wfh8Veb.png">
 </p>
