@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-size: 100px;
+    background: linear-gradient(90deg, rgba(112,30,150,1) 35%, rgba(245,203,247,1) 100%);
+}
+
+.principal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    gap: 20px;
+}
+
+.principal_texto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 250px;
+}
+
+.texto_texto {
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    font-weight: 400;
+    font-size: 24px;
+    color: #ffffff;
+    margin-bottom: 16px;
+}
+
+.botao_texto {
+    background-color: #c093d4;
+    width: 180px;
+    height: 60px;
+    border: none;
+    box-shadow: 4px 5px 4px #000000;
+    border-radius: 25px;
+    font-family: 'Sarala', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #000000;
+}
+
+.botao_texto:hover {
+    background-color: #ae78c5;
+    border-radius: 500px;
+}
+
+.principal_img {
+    display: flex;
+    margin-top:220px;
+}
+
+.img {
+    height: 220px;
+}
