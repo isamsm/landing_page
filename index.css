@@ -84,6 +84,7 @@ body {
 
 .conteudo_principal_escrito_botao:hover {
     background-color: #ae78c5;
+    border-radius: 500px;
 }
 
 .conteudo_principal_minha_foto {
