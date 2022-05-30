@@ -4,5 +4,5 @@
 
 <h4 align="center"> Esse projeto foi feito com foco no aprendizado de flexbox e no aprofundamento de css. </h4>
 
-https://user-images.githubusercontent.com/80493617/171046799-75f5bec0-ab9a-4d0a-8d73-75dabe77b623.mp4
+https://www.loom.com/share/f53b2fcbaa714422b643b2f545dd035e
 
