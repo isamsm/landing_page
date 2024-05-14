@@ -1,8 +1,22 @@
-<h1> Landing Page </h1>
+# Landing Page 
 
-<h3> Projetinho de uma landing page simples, usando apenas html e css, com um botão que te redireciona para outra página html. Esse projeto foi feito com foco no aprendizado de flexbox e no aprofundamento de css. </h3>
+## Sobre
 
-<h4> Foi utilizado um video do canal "Rafa Ballerini" no YouTube como base.  </h4>
+### Projetinho de uma landing page simples, usando apenas HTML e CSS, com um botão que te redireciona para outra página html. Esse projeto foi feito com foco no aprendizado de flexbox e no aprofundamento de css.
 
-https://user-images.githubusercontent.com/80493617/212065820-1327bb76-1dae-49aa-94a2-b60bcfded412.mp4
+Foi utilizado um video do canal "Rafa Ballerini" no YouTube como base.  
+
+## Como usar
+
+### 1. Clonar o projeto em sua máquina:
+
+```
+git clone https://github.com/isamsm/landing_page
+```
+
+### 2. Acessar o ambiente local:
+
+localhost:3000 no seu navegador.
+
+E pronto, dessa forma você já terá o projeto rodando em sua máquina!
 
